@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Mateus Luis Nogueira de Lima, tenho 16 anos e sou natural do Rio Grande do Norte. Atualmente, estou cursando o ensino médio com técnico em Informática no IFRN. Sou apaixonado por tecnologia e pelo desenvolvimento de sistemas, com foco em backend utilizando Java, Spring Boot e PostgreSQL. Gosto de aprender de forma prática, participando de projetos que me desafiem a criar soluções escaláveis e eficientes..
+Me chamo Mateus Luis Nogueira de Lima, tenho 17 anos e sou natural do Rio Grande do Norte. Atualmente, estou cursando o ensino médio com técnico em Informática no IFRN. Sou apaixonado por tecnologia e pelo desenvolvimento de sistemas, com foco em backend utilizando Java, Spring Boot e PostgreSQL. Gosto de aprender de forma prática, participando de projetos que me desafiem a criar soluções escaláveis e eficientes..
 
 ---
 
